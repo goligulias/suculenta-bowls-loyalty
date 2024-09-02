@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "suculenta-bowls-loyalty",
+    "name": "Suculenta-Bowls-Loyalty",
     "slug": "suculenta-bowls-loyalty",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "suculenta-bowls-loyalty",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
